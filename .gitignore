@@ -1,0 +1,9 @@
+*.o
+*.cmd
+*.a
+docs/
+busybox.links
+busybox_unstripped
+busybox_unstripped.map
+busybox_unstripped.out
+
